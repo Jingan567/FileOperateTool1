@@ -8,7 +8,9 @@ namespace FileOperateTool
 {
     interface FileTool
     {
-        
+#if true
+
+#endif
     }
     public class FileOperate
     {
